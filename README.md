@@ -1,44 +1,28 @@
-## CODSOFT
+CodSoft Internship Projects
+During my internship at CodSoft, I worked on three machine learning projects, applying various natural language processing and predictive modeling techniques. Below is an overview of each project:
 
-CODSOFT Machine Learning Internship
+1. Movie Genre Prediction 🎬
+Objective: Develop a machine learning model to predict the genre of a movie based on its plot summary or other textual information.
+Techniques & Models:
 
-🚀 Internship Duration: 15th January 2025 – 15th February 2025
-
-📌 Internship Provider: CodSoft
-
-📂 Repository Name: CODSOFT
-
-About This Repository
-
-This repository contains the work I completed as part of my Machine Learning Internship at CodSoft. The goal of this internship is to apply machine learning techniques to real-world datasets and develop predictive models. The internship focuses on hands-on learning and practical experience.
-
-Completed Tasks
+Feature Extraction: TF-IDF, Word Embeddings
+Classifiers: Naive Bayes, Logistic Regression, Support Vector Machines (SVM)
+Data Preprocessing: Text cleaning, tokenization, stopword removal
 
 
-1️⃣ Credit Card Fraud Detection
-📌 Objective: Detect fraudulent credit card transactions.
-📊 Techniques Used: Logistic Regression, Decision Trees, Random Forests.
-🛠 Skills Gained:
-Handling imbalanced datasets
-Feature engineering
-Model evaluation (Precision, Recall, F1-score)
-📁 Dataset: Kaggle - Fraud Detection
+2. Customer Churn Prediction 📉
+Objective: Predict customer churn for a subscription-based service using historical customer data, including behavioral patterns and demographics.
+Techniques & Models:
+
+Feature Engineering: Usage behavior analysis, demographic segmentation
+Algorithms: Logistic Regression, Random Forest, Gradient Boosting (XGBoost)
+Performance Metrics: Accuracy, Precision-Recall, AUC-ROC
 
 
-2️⃣ Customer Churn Prediction
-📌 Objective: Predict which customers are likely to leave a service.
-📊 Techniques Used: Logistic Regression, Random Forests, Gradient Boosting.
-🛠 Skills Gained:
-Working with structured customer data
-Feature selection & importance analysis
-Model deployment strategies
-📁 Dataset: Kaggle - Customer Churn Prediction
+3. SMS Spam Classification 📩
+Objective: Build an AI model to classify SMS messages as spam or legitimate.
+Techniques & Models:
 
-
-3️⃣ Spam SMS Detection
-📌 Objective: Classify SMS messages as spam or legitimate.
-📊 Techniques Used: TF-IDF, Naïve Bayes, Logistic Regression, SVM.
-🛠 Skills Gained:
-NLP basics (Text preprocessing, Tokenization)
-Machine Learning for Text Classification
-📁 Dataset: Kaggle - SMS Spam Collection
+Feature Extraction: TF-IDF, Word Embeddings
+Classifiers: Naive Bayes, Logistic Regression, Support Vector Machines (SVM)
+Data Cleaning: Tokenization, stopword removal, stemming

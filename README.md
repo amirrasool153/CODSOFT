@@ -1,4 +1,5 @@
-CodSoft Internship Projects
+##CodSoft Internship Projects
+
 During my internship at CodSoft, I worked on three machine learning projects, applying various natural language processing and predictive modeling techniques. Below is an overview of each project:
 
 1. Movie Genre Prediction 🎬
